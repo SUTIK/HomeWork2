@@ -26,7 +26,7 @@ package eu.senla.sutko.task2;
                 System.out.println("BLUE");
                 break;
             case 7:
-                System.out.println("FIOLET");
+                System.out.println("PURPLE");
                 break;
             default:
                 System.out.println("Введите цифру от 1 до 7");
